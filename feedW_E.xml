@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+
+    <title>Watchtower — Study Edition</title>
+
+    <description>Watchtower — Study Edition audio from JW.ORG</description>
+
+    <link>https://www.jw.org/en/library/magazines/</link>
+
+    <language>en-us</language>
+
+    <copyright>© Watch Tower Bible and Tract Society of Pennsylvania</copyright>
+
+    <itunes:author>JW.ORG</itunes:author>
+    <itunes:category text="Religion &amp; Spirituality" />
+
+    <item>
+      <title>Resist Satan’s Tactics—Trust In Jehovah and In Jesus (October 5-11)</title>
+      <description>Watchtower (Study), August 2026</description>
+      <guid isPermaLink="false">w-202608-01</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure
+        url="https://cfp2.jw-cdn.org/a/d3bcbed/1/o/w_E_202608_01.mp3"
+        length="8697117"
+        type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>You Can Win the Battle! (October 12-18)</title>
+      <description>Watchtower (Study), August 2026</description>
+      <guid isPermaLink="false">w-202608-02</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure
+        url="https://cfp2.jw-cdn.org/a/bb3d81/1/o/w_E_202608_02.mp3"
+        length="8690881"
+        type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>An Appeal on the Basis of Love (October 19-25)</title>
+      <description>Watchtower (Study), August 2026</description>
+      <guid isPermaLink="false">w-202608-03</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure
+        url="https://cfp2.jw-cdn.org/a/3fb5e0/1/o/w_E_202608_03.mp3"
+        length="9583158"
+        type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Cherish “the Privilege of Fearlessly Rendering Sacred Service” (October 26-November 1)</title>
+      <description>Watchtower (Study), August 2026</description>
+      <guid isPermaLink="false">w-202608-04</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure
+        url="https://cfp2.jw-cdn.org/a/5945f9a/1/o/w_E_202608_04.mp3"
+        length="9207791"
+        type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>My Grand Creator Noticed Me</title>
+      <description>Watchtower (Study), August 2026</description>
+      <guid isPermaLink="false">w-202608-05</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure
+        url="https://cfp2.jw-cdn.org/a/be1f52a/1/o/w_E_202608_05.mp3"
+        length="7011707"
+        type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Did You Know?</title>
+      <description>Watchtower (Study), August 2026</description>
+      <guid isPermaLink="false">w-202608-06</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure
+        url="https://cfp2.jw-cdn.org/a/d25adf6/1/o/w_E_202608_06.mp3"
+        length="1492696"
+        type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>The Tree That Wakes Up Early</title>
+      <description>Watchtower (Study), August 2026</description>
+      <guid isPermaLink="false">w-202608-07</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+      <enclosure
+        url="https://cfp2.jw-cdn.org/a/a5e476b/1/o/w_E_202608_07.mp3"
+        length="536489"
+        type="audio/mpeg" />
+    </item>
+
+  </channel>
+</rss>
