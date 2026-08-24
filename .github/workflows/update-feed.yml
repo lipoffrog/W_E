@@ -1,1 +1,19 @@
+name: Update Watchtower Feed
 
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 12 * * *'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Test workflow
+        run: |
+          echo "Watchtower feed automation is working!"
+          date
