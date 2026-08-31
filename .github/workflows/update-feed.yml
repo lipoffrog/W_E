@@ -1,15 +1,30 @@
 name: Update Watchtower Feed
 
-'on':
+on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 14 * * *'
 
 jobs:
-  test_jw_api:
+  update_feed:
     runs-on: ubuntu-latest
 
     steps:
       - name: Check out repository
         uses: actions/checkout@v6
 
-      - name: Run JW.org test
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.x'
+
+      - name: Run update script
         run: python update_feed.py
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feedW_E.xml
+          git diff --cached --quiet || git commit -m "Update Watchtower feed"
+          git push
