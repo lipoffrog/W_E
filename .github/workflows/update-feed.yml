@@ -1,19 +1,15 @@
-name: Update Watchtower_English Feed
+name: Update Watchtower Feed
 
 'on':
   workflow_dispatch:
-  schedule:
-    - cron: '0 12 * * *'
 
 jobs:
-  test:
+  test_jw_api:
     runs-on: ubuntu-latest
 
     steps:
       - name: Check out repository
         uses: actions/checkout@v6
 
-      - name: Test workflow
-        run: |
-          echo "Watchtower feed automation is working!"
-          date
+      - name: Run JW.org test
+        run: python update_feed.py
