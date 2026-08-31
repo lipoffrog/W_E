@@ -1,4 +1,4 @@
-name: Update Watchtower Feed
+name: Update Watchtower_English Feed
 
 'on':
   workflow_dispatch:
