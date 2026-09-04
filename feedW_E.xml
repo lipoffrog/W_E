@@ -1,97 +1,306 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-
     <title>Watchtower — Study Edition</title>
-
     <description>Watchtower — Study Edition audio from JW.ORG</description>
-
     <link>https://www.jw.org/en/library/magazines/</link>
-
     <language>en-us</language>
-
     <copyright>© Watch Tower Bible and Tract Society of Pennsylvania</copyright>
-
     <itunes:author>JW.ORG</itunes:author>
     <itunes:category text="Religion &amp; Spirituality" />
-
+    <item>
+      <title>To Please Jehovah, Keep Training Your Conscience (January 4-10)</title>
+      <description>Watchtower (Study), November 2026</description>
+      <guid isPermaLink="false">w-202611-01</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/c6f73f9/1/o/w_E_202611_01.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>"Shepherds Who Will Really Shepherd" (January 11-17)</title>
+      <description>Watchtower (Study), November 2026</description>
+      <guid isPermaLink="false">w-202611-02</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/5e78a4/1/o/w_E_202611_02.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Cultivate a Friendship With Jehovah and With Jesus (January 18-24)</title>
+      <description>Watchtower (Study), November 2026</description>
+      <guid isPermaLink="false">w-202611-03</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/1803e98/1/o/w_E_202611_03.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Cultivate Meaningful Friendships With Your Brothers and Sisters (January 25-31)</title>
+      <description>Watchtower (Study), November 2026</description>
+      <guid isPermaLink="false">w-202611-04</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/0b13ba0/1/o/w_E_202611_04.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>How to Be Content During Economic Hardship</title>
+      <description>Watchtower (Study), November 2026</description>
+      <guid isPermaLink="false">w-202611-05</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/ca2ca2d3/1/o/w_E_202611_05.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Did You Know?</title>
+      <description>Watchtower (Study), November 2026</description>
+      <guid isPermaLink="false">w-202611-06</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/cb648a7/1/o/w_E_202611_06.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Appreciate the Variety in Your Congregation</title>
+      <description>Watchtower (Study), November 2026</description>
+      <guid isPermaLink="false">w-202611-07</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/82a5c9/1/o/w_E_202611_07.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Get the Most Out of Our Videos</title>
+      <description>Watchtower (Study), November 2026</description>
+      <guid isPermaLink="false">w-202611-08</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/b69008/1/o/w_E_202611_08.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>1926—One Hundred Years Ago</title>
+      <description>Watchtower (Study), October 2026</description>
+      <guid isPermaLink="false">w-202610-01</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/b78cd5/1/o/w_E_202610_01.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Show Yourself Thankful—Why and How? (December 7-13)</title>
+      <description>Watchtower (Study), October 2026</description>
+      <guid isPermaLink="false">w-202610-02</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/66dbc1b/1/o/w_E_202610_02.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Treasure Your Share in Modern-Day Miracles (December 14-20)</title>
+      <description>Watchtower (Study), October 2026</description>
+      <guid isPermaLink="false">w-202610-03</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/f628d2/1/o/w_E_202610_03.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Together We "Take a Stand" (December 21-27)</title>
+      <description>Watchtower (Study), October 2026</description>
+      <guid isPermaLink="false">w-202610-04</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/7c79b15/1/o/w_E_202610_04.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Examine the Scriptures Daily (December 28-January 3)</title>
+      <description>Watchtower (Study), October 2026</description>
+      <guid isPermaLink="false">w-202610-05</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/a7194b/1/o/w_E_202610_05.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Build Your Faith on a Solid Foundation</title>
+      <description>Watchtower (Study), October 2026</description>
+      <guid isPermaLink="false">w-202610-06</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/ba7173/1/o/w_E_202610_06.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Jehovah Rewards Faith</title>
+      <description>Watchtower (Study), October 2026</description>
+      <guid isPermaLink="false">w-202610-07</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/66e62ba/1/o/w_E_202610_07.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Trust In Jehovah for Protection (November 2-8)</title>
+      <description>Watchtower (Study), September 2026</description>
+      <guid isPermaLink="false">w-202609-01</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/5360d1/1/o/w_E_202609_01.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>How to Develop "an Obedient Heart" (November 9-15)</title>
+      <description>Watchtower (Study), September 2026</description>
+      <guid isPermaLink="false">w-202609-02</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/aa996a/1/o/w_E_202609_02.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Sharing the Good News in "All the Languages of the Nations" (November 16-22)</title>
+      <description>Watchtower (Study), September 2026</description>
+      <guid isPermaLink="false">w-202609-03</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/ca8fb3/1/o/w_E_202609_03.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>How the Priesthood Reveals Jehovah's Love (November 23-29)</title>
+      <description>Watchtower (Study), September 2026</description>
+      <guid isPermaLink="false">w-202609-04</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/17abe1d/1/o/w_E_202609_04.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Guard Against "the Spirit of the World" (November 30—December 6)</title>
+      <description>Watchtower (Study), September 2026</description>
+      <guid isPermaLink="false">w-202609-05</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/598c41c/1/o/w_E_202609_05.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>"Let the Peace of the Christ Rule in Your Hearts"</title>
+      <description>Watchtower (Study), September 2026</description>
+      <guid isPermaLink="false">w-202609-06</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/9846c4/1/o/w_E_202609_06.mp3" length="0" type="audio/mpeg" />
+    </item>
     <item>
       <title>Resist Satan’s Tactics—Trust In Jehovah and In Jesus (October 5-11)</title>
       <description>Watchtower (Study), August 2026</description>
       <guid isPermaLink="false">w-202608-01</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure
-        url="https://cfp2.jw-cdn.org/a/d3bcbed/1/o/w_E_202608_01.mp3"
-        length="8697117"
-        type="audio/mpeg" />
+      <enclosure url="https://cfp2.jw-cdn.org/a/d3bcbed/1/o/w_E_202608_01.mp3" length="0" type="audio/mpeg" />
     </item>
-
     <item>
       <title>You Can Win the Battle! (October 12-18)</title>
       <description>Watchtower (Study), August 2026</description>
       <guid isPermaLink="false">w-202608-02</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure
-        url="https://cfp2.jw-cdn.org/a/bb3d81/1/o/w_E_202608_02.mp3"
-        length="8690881"
-        type="audio/mpeg" />
+      <enclosure url="https://cfp2.jw-cdn.org/a/bb3d81/1/o/w_E_202608_02.mp3" length="0" type="audio/mpeg" />
     </item>
-
     <item>
       <title>An Appeal on the Basis of Love (October 19-25)</title>
       <description>Watchtower (Study), August 2026</description>
       <guid isPermaLink="false">w-202608-03</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure
-        url="https://cfp2.jw-cdn.org/a/3fb5e0/1/o/w_E_202608_03.mp3"
-        length="9583158"
-        type="audio/mpeg" />
+      <enclosure url="https://cfp2.jw-cdn.org/a/3fb5e0/1/o/w_E_202608_03.mp3" length="0" type="audio/mpeg" />
     </item>
-
     <item>
-      <title>Cherish “the Privilege of Fearlessly Rendering Sacred Service” (October 26-November 1)</title>
+      <title>Cherish “the Privilege of Fearlessly Rendering Sacred Service” (October 26—November 1)</title>
       <description>Watchtower (Study), August 2026</description>
       <guid isPermaLink="false">w-202608-04</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure
-        url="https://cfp2.jw-cdn.org/a/5945f9a/1/o/w_E_202608_04.mp3"
-        length="9207791"
-        type="audio/mpeg" />
+      <enclosure url="https://cfp2.jw-cdn.org/a/5945f9a/1/o/w_E_202608_04.mp3" length="0" type="audio/mpeg" />
     </item>
-
     <item>
       <title>My Grand Creator Noticed Me</title>
       <description>Watchtower (Study), August 2026</description>
       <guid isPermaLink="false">w-202608-05</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure
-        url="https://cfp2.jw-cdn.org/a/be1f52a/1/o/w_E_202608_05.mp3"
-        length="7011707"
-        type="audio/mpeg" />
+      <enclosure url="https://cfp2.jw-cdn.org/a/be1f52a/1/o/w_E_202608_05.mp3" length="0" type="audio/mpeg" />
     </item>
-
     <item>
       <title>Did You Know?</title>
       <description>Watchtower (Study), August 2026</description>
       <guid isPermaLink="false">w-202608-06</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure
-        url="https://cfp2.jw-cdn.org/a/d25adf6/1/o/w_E_202608_06.mp3"
-        length="1492696"
-        type="audio/mpeg" />
+      <enclosure url="https://cfp2.jw-cdn.org/a/d25adf6/1/o/w_E_202608_06.mp3" length="0" type="audio/mpeg" />
     </item>
-
     <item>
       <title>The Tree That Wakes Up Early</title>
       <description>Watchtower (Study), August 2026</description>
       <guid isPermaLink="false">w-202608-07</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-      <enclosure
-        url="https://cfp2.jw-cdn.org/a/a5e476b/1/o/w_E_202608_07.mp3"
-        length="536489"
-        type="audio/mpeg" />
+      <enclosure url="https://cfp2.jw-cdn.org/a/a5e476b/1/o/w_E_202608_07.mp3" length="0" type="audio/mpeg" />
     </item>
-
+    <item>
+      <title>Learn From the Gibeonites (September 7-13)</title>
+      <description>Watchtower (Study), July 2026</description>
+      <guid isPermaLink="false">w-202607-01</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/ee2f00/1/o/w_E_202607_01.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Find Comfort in the Book of Isaiah (September 14-20)</title>
+      <description>Watchtower (Study), July 2026</description>
+      <guid isPermaLink="false">w-202607-02</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/eb68b34/1/o/w_E_202607_02.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Are You Getting to Know Jehovah Better? (September 21-27)</title>
+      <description>Watchtower (Study), July 2026</description>
+      <guid isPermaLink="false">w-202607-03</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/37e98c/1/o/w_E_202607_03.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Help Others Come to Know Jehovah (September 28—October 4)</title>
+      <description>Watchtower (Study), July 2026</description>
+      <guid isPermaLink="false">w-202607-04</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/1db21c1/1/o/w_E_202607_04.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Allowing Jehovah to Refine Me</title>
+      <description>Watchtower (Study), July 2026</description>
+      <guid isPermaLink="false">w-202607-05</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/c855164/1/o/w_E_202607_05.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Repair the Damage Quickly!</title>
+      <description>Watchtower (Study), July 2026</description>
+      <guid isPermaLink="false">w-202607-06</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/b095b81/1/o/w_E_202607_06.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Prepare Upbuilding Comments</title>
+      <description>Watchtower (Study), July 2026</description>
+      <guid isPermaLink="false">w-202607-07</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/38e25d5/1/o/w_E_202607_07.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>How to Remain Loyal When We Face Tests of Faith (August 10-16)</title>
+      <description>Watchtower (Study), June 2026</description>
+      <guid isPermaLink="false">w-202606-01</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/42472c/1/o/w_E_202606_01.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>How to Maintain Christian Friendships (August 17-23)</title>
+      <description>Watchtower (Study), June 2026</description>
+      <guid isPermaLink="false">w-202606-02</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/ad13a94/1/o/w_E_202606_02.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Benefit From the Field Service Group Arrangement (August 24-30)</title>
+      <description>Watchtower (Study), June 2026</description>
+      <guid isPermaLink="false">w-202606-03</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/9ec3de/2/o/w_E_202606_03.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Pay Attention to How You Listen (August 31-September 6)</title>
+      <description>Watchtower (Study), June 2026</description>
+      <guid isPermaLink="false">w-202606-04</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/b0be04/1/o/w_E_202606_04.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Serving Jehovah for Over 70 Years in Cuba</title>
+      <description>Watchtower (Study), June 2026</description>
+      <guid isPermaLink="false">w-202606-05</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/137140/1/o/w_E_202606_05.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Questions From Readers</title>
+      <description>Watchtower (Study), June 2026</description>
+      <guid isPermaLink="false">w-202606-06</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/435e731/1/o/w_E_202606_06.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fishing Nets in Bible Times</title>
+      <description>Watchtower (Study), June 2026</description>
+      <guid isPermaLink="false">w-202606-07</guid>
+      <pubDate>Fri, 04 Sep 2026 00:48:29 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/32554e/1/o/w_E_202606_07.mp3" length="0" type="audio/mpeg" />
+    </item>
   </channel>
 </rss>
