@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Der Wachtturm — Ausgabe für die Öffentlichkeit</title>
+    <description>Audio von Der Wachtturm — Ausgabe für die Öffentlichkeit von JW.ORG</description>
+    <link>https://www.jw.org/</link>
+    <language>de-de</language>
+    <itunes:author>JW.ORG</itunes:author>
+    <itunes:category text="Religion &amp; Spirituality" />
+    <item>
+      <title>Einführung</title>
+      <description>Wachtturm (Öffentlichkeit), 2026</description>
+      <guid isPermaLink="false">wp-x-202609-01</guid>
+      <pubDate>Tue, 29 Sep 2026 02:42:28 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/0297264/1/o/wp_X_202609_01.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Kann eine bessere Politik Weltfrieden schaffen?</title>
+      <description>Wachtturm (Öffentlichkeit), 2026</description>
+      <guid isPermaLink="false">wp-x-202609-02</guid>
+      <pubDate>Tue, 29 Sep 2026 02:42:28 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/361aed/1/o/wp_X_202609_02.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Kann Religion Weltfrieden herbeiführen?</title>
+      <description>Wachtturm (Öffentlichkeit), 2026</description>
+      <guid isPermaLink="false">wp-x-202609-03</guid>
+      <pubDate>Tue, 29 Sep 2026 02:42:28 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/bc87ffc/1/o/wp_X_202609_03.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Kann technischer Fortschritt zu Weltfrieden führen?</title>
+      <description>Wachtturm (Öffentlichkeit), 2026</description>
+      <guid isPermaLink="false">wp-x-202609-04</guid>
+      <pubDate>Tue, 29 Sep 2026 02:42:28 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/cefc02/1/o/wp_X_202609_04.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Können Wirtschaftsreformen Weltfrieden bringen?</title>
+      <description>Wachtturm (Öffentlichkeit), 2026</description>
+      <guid isPermaLink="false">wp-x-202609-05</guid>
+      <pubDate>Tue, 29 Sep 2026 02:42:28 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/3cdf08/1/o/wp_X_202609_05.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Was denken Sie: Wodurch lässt sich Weltfrieden am ehesten erreichen?</title>
+      <description>Wachtturm (Öffentlichkeit), 2026</description>
+      <guid isPermaLink="false">wp-x-202609-06</guid>
+      <pubDate>Tue, 29 Sep 2026 02:42:28 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/ce60a3b/1/o/wp_X_202609_06.mp3" length="0" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>

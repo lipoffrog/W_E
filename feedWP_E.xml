@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Watchtower — Public Edition</title>
+    <description>The Watchtower — Public Edition audio from JW.ORG</description>
+    <link>https://www.jw.org/</link>
+    <language>en-us</language>
+    <itunes:author>JW.ORG</itunes:author>
+    <itunes:category text="Religion &amp; Spirituality" />
+    <item>
+      <title>Introduction</title>
+      <description>Watchtower (Public), 2026</description>
+      <guid isPermaLink="false">wp-e-202609-01</guid>
+      <pubDate>Tue, 29 Sep 2026 02:42:03 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/450a92c/2/o/wp_E_202609_01.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Can Better Government Bring World Peace?</title>
+      <description>Watchtower (Public), 2026</description>
+      <guid isPermaLink="false">wp-e-202609-02</guid>
+      <pubDate>Tue, 29 Sep 2026 02:42:03 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/d39246/1/o/wp_E_202609_02.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Can Religion Bring World Peace?</title>
+      <description>Watchtower (Public), 2026</description>
+      <guid isPermaLink="false">wp-e-202609-03</guid>
+      <pubDate>Tue, 29 Sep 2026 02:42:03 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/509d00/1/o/wp_E_202609_03.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Can Technology Bring World Peace?</title>
+      <description>Watchtower (Public), 2026</description>
+      <guid isPermaLink="false">wp-e-202609-04</guid>
+      <pubDate>Tue, 29 Sep 2026 02:42:03 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/c70512/1/o/wp_E_202609_04.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Can Economic Reform Bring World Peace?</title>
+      <description>Watchtower (Public), 2026</description>
+      <guid isPermaLink="false">wp-e-202609-05</guid>
+      <pubDate>Tue, 29 Sep 2026 02:42:03 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/abc31e0/1/o/wp_E_202609_05.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Which do you think is the best equipped to bring world peace?</title>
+      <description>Watchtower (Public), 2026</description>
+      <guid isPermaLink="false">wp-e-202609-06</guid>
+      <pubDate>Tue, 29 Sep 2026 02:42:03 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/441b3e5/1/o/wp_E_202609_06.mp3" length="0" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>

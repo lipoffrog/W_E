@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>La Tour de Garde — édition publique</title>
+    <description>Audio de La Tour de Garde — édition publique de JW.ORG</description>
+    <link>https://www.jw.org/</link>
+    <language>fr-fr</language>
+    <itunes:author>JW.ORG</itunes:author>
+    <itunes:category text="Religion &amp; Spirituality" />
+    <item>
+      <title>Introduction</title>
+      <description>La Tour de Garde (édition publique), 2026</description>
+      <guid isPermaLink="false">wp-f-202609-01</guid>
+      <pubDate>Tue, 29 Sep 2026 02:42:16 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/bdd984/1/o/wp_F_202609_01.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>De meilleurs gouvernements peuvent-ils établir une paix mondiale ?</title>
+      <description>La Tour de Garde (édition publique), 2026</description>
+      <guid isPermaLink="false">wp-f-202609-02</guid>
+      <pubDate>Tue, 29 Sep 2026 02:42:16 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/806dfd/2/o/wp_F_202609_02.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>La religion peut-elle apporter une paix mondiale ?</title>
+      <description>La Tour de Garde (édition publique), 2026</description>
+      <guid isPermaLink="false">wp-f-202609-03</guid>
+      <pubDate>Tue, 29 Sep 2026 02:42:16 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/4e5b87f/2/o/wp_F_202609_03.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>La technologie peut-elle apporter une paix mondiale ?</title>
+      <description>La Tour de Garde (édition publique), 2026</description>
+      <guid isPermaLink="false">wp-f-202609-04</guid>
+      <pubDate>Tue, 29 Sep 2026 02:42:16 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/06ac46/2/o/wp_F_202609_04.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Des réformes économiques peuvent-elles apporter une paix mondiale ?</title>
+      <description>La Tour de Garde (édition publique), 2026</description>
+      <guid isPermaLink="false">wp-f-202609-05</guid>
+      <pubDate>Tue, 29 Sep 2026 02:42:16 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/753628/2/o/wp_F_202609_05.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Selon vous, qu’est-ce qui permettrait d’établir une paix mondiale ?</title>
+      <description>La Tour de Garde (édition publique), 2026</description>
+      <guid isPermaLink="false">wp-f-202609-06</guid>
+      <pubDate>Tue, 29 Sep 2026 02:42:16 GMT</pubDate>
+      <enclosure url="https://cfp2.jw-cdn.org/a/1e0393a/1/o/wp_F_202609_06.mp3" length="0" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>
